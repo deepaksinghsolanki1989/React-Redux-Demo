@@ -1,17 +1,18 @@
 # React Redux Demo
 Simple demo which help you to start with react and redux (For local state management).
 
-## Getting Started
+## Dependencies
+  1. react
+  2. redux
+  3. react-redux
+  4. prop-types
 
-### Installing
-Dependencies 
-  1. apollo-boost
-  2. graphql
-  3. react-apollo
-  4. redux
-  5. react-redux
+## Getting started
+To get the application running locally:
 
-How to run app
-  1. Open project in VS code
-  2. Open terminal(cmd+j) and execute npm install command
-  3. react-native run-android
+- Clone this repo
+- `npm install` to install all required dependencies
+- `npm start` to start the local server (this project uses create-react-app)
+
+
+This will runs the app in the development mode and open [http://localhost:3000](http://localhost:3000) to view it in the browser.
